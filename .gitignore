@@ -1,0 +1,24 @@
+# Keil MDK 编译输出
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.bak
+*.log
+*.tmp
+
+# Keil 工程本地配置
+*.uvgui
+*.uvopt
+_JLink*
+*.swd
+
+# 系统文件
+.DS_Store
+Thumbs.db
