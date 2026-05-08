@@ -35,27 +35,40 @@
 - 输入满5个符号后自动识别数字（0-9），蜂鸣提示并显示结果
 - 再次按下K1或K2重置并开始新输入
 - **K3**：退出输入模式
-
-  ![莫尔斯电码演示](image/Morse_code.jpg)
-  ![无效信号提示](image/Morse_invalid.jpg)
+<p align="center">
+  <img src="image/Morse_invalid.jpg" width="300" style="margin: 0 10px;">
+  <img src="image/Morse_code.jpg" width="309" style="margin: 0 10px;">
+</p>
+<p align="center" style="font-size:14px; margin-top:5px;">
+  左：莫尔斯电码无效码效果　　　　右：莫尔斯电码解码效果
+</p>
 
 ### 4. TEMP子菜单
-- 显示当前温度和湿度，带单位`°C`和`%`
+- 显示当前温度和湿度
+<p align="center">
+  <img src="image/Temp.jpg" width="300">
+  <br>
+  温度显示
+</p>
 
-  ![温度显示](image/Temp.jpg)
-  
 ### 5. LED子菜单
 - 显示LED状态（ON/OFF）
 - **K1/K2**：切换LED状态和蜂鸣器联动
-
-  ![LED控制](image/Led.jpg)
+<p align="center">
+  <img src="image/Led.jpg" width="300">
+  <br>
+  LED控制
+</p>
   
 ### 6. COUNT子菜单
 - 显示质数计数器数值
 - **K1**：跳到下一个质数
 - **K2**：计数器清零
-
-  ![质数检测](image/Prime.jpg)
+<p align="center">
+  <img src="image/Prime.jpg" width="300">
+  <br>
+  质数显示
+</p>
   
 ### 7. 开机画面
 - 上电显示标题停留3秒后进入菜单
