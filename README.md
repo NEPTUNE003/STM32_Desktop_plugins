@@ -36,17 +36,26 @@
 - 再次按下K1或K2重置并开始新输入
 - **K3**：退出输入模式
 
+  ![莫尔斯电码演示](image/Morse_code.jpg)
+  ![无效信号提示](image/Morse_invalid.jpg)
+
 ### 4. TEMP子菜单
 - 显示当前温度和湿度，带单位`°C`和`%`
 
+  ![温度显示](image/Temp.jpg)
+  
 ### 5. LED子菜单
 - 显示LED状态（ON/OFF）
 - **K1/K2**：切换LED状态和蜂鸣器联动
 
+  ![LED控制](image/Led.jpg)
+  
 ### 6. COUNT子菜单
 - 显示质数计数器数值
 - **K1**：跳到下一个质数
 - **K2**：计数器清零
 
+  ![质数检测](image/Prime.jpg)
+  
 ### 7. 开机画面
 - 上电显示标题停留3秒后进入菜单
